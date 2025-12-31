@@ -352,9 +352,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or collaboration opportunities:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
+- **Email**: cafeofprogrammmer@gmail.com
+- **LinkedIn**: [Muhammad Faahem](https://www.linkedin.com/in/muhammad-faahem-760199219/)
 
 ---
 
